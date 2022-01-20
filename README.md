@@ -1,0 +1,1 @@
+This porject is developed using pure HTML, bootstrap and some inline css. No external CSS is used. Purpose of this project was to learn and practice bootstrap
